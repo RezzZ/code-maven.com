@@ -3,6 +3,6 @@ def f() {
 }
 
 r = f()
-println r['a']
-println r['b']
+println r.a
+println r.b
 
